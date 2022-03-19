@@ -1,1 +1,1 @@
-tekst
+Projekt w ramach WSB
